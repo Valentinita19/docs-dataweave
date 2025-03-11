@@ -398,6 +398,6 @@ image::dataweave-extension-logs.png[Mule DX DataWeave LS option to select in the
 
 == See Also
 
-* xref:dataweave-share-reuse.adoc[Sharing and Reusing Custom DataWeave Modules and Mappings]
+* xref:dataweave-extension.adoc[]
 * xref:dataweave-maven-plugin.adoc[DataWeave Maven Plugin]
 * xref:dataweave-testing-framework.adoc[DataWeave Testing Framework]

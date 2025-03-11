@@ -156,6 +156,6 @@ The testing framework includes a set of matchers to use in your tests. See the x
 
 == See Also
 
-* xref:dataweave-share-reuse.adoc[Sharing and Reusing Custom DataWeave Modules and Mappings]
+* xref:dataweave-extension.adoc[]
 * xref:dataweave-maven-plugin.adoc[Packaging and Deploying DataWeave Libraries]
 * xref:dataweave-extension-plugin.adoc[Installing and Using the DataWeave 2.0 Extension]
